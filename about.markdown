@@ -10,7 +10,7 @@ Suriya is a Mechanical Engineer Graduate who is passionate about programming. He
 
 Suriya spend most of his time in upskilling himself with the technology and he likes to face challenges and debug code.
 
-### Suriya's Techinal Expertise
+### Suriya's Technical Expertise
 
 |Programming Languages|Scala, Python and Java|
 |Relational Databases|Oracle SQL, MySQL and SQL Server|
