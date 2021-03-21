@@ -32,6 +32,22 @@ theme: minima
 plugins:
   - jekyll-feed
 
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: Suriya Krishna Mohan
+      # author_profile: false
+      read_time: true
+      comments: true
+      share: true
+      related: true
+      permalink: /:categories/:year/:month/:day/:title
+      
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
