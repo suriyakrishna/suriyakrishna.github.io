@@ -6,7 +6,7 @@ permalink: /about-me/
 
 <img src='/assets/suriya-krishna-mohan.jpg' width='200' height='200' style="float:right; padding:5px">
 
-Suriya is a Mechanical Engineer Graduate who is passionate about programming. He has 3+ years of experience in desinging, building, testing, debugging and deploying big data pipelines. He has built many near real time and batch data pipelines and most of those pipelines are reusable which reduced development efforts and cost to his team/organization. 
+Suriya is a passionate programmer and a data pipeline developer. He has 3+ years of experience in desinging, building, testing, debugging and deploying big data pipelines. He has built many near real time and batch data pipelines and most of those pipelines are reusable which reduced development efforts to his teams and cost to his organization. 
 
 Suriya spend most of his time in upskilling himself with the technology and he likes to face challenges and debug code.
 
@@ -20,4 +20,4 @@ Suriya spend most of his time in upskilling himself with the technology and he l
 |Web Development     |HTML and CSS|
 |Version Control Systems   |Github and Bitbucket|
 |Cloud   |Scality/AWS S3 Buckets|
-|Frameworks   |Spring|
+|Frameworks   |Spring Boot|

@@ -7,6 +7,16 @@ categories: shell-scripting
 
 > [Shell Scripting Standards](http://ronaldbradford.com/blog/scripting-standards/)
 
+Anyone can use this generic functions in their scripts and more generic function will be added soon. 
+
+> Below are the  some of the generic functions 
+>
+> - Logging
+> - Send e-mail
+> - Command status check
+> - File exists check
+> - Time elapsed
+
 ### Logging
 ```bash
 function log(){
@@ -15,6 +25,7 @@ function log(){
     local MESSAGE="${2}"
     echo "${TMS} - ${LEVEL} - ${MESSAGE}"
 }
+
 function log_info(){
     log " INFO" "${1}"
 }
