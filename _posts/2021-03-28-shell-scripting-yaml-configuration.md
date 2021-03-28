@@ -61,7 +61,7 @@ CONFIG_PREFIX=${2}
 
 if [ "${YAML_FILE}" == "" ]; then
     echo "ERROR: Missing required parameter. Exiting.."
-    echo "USAGE: ${YAML_PARSER_SCRIPT}.sh yaml_file.yml [config_prefix]"
+    echo "USAGE: source ${YAML_PARSER_SCRIPT}.sh yaml_file.yml [config_prefix]"
     return 1
 fi
 
