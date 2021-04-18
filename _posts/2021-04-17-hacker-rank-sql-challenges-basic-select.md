@@ -115,20 +115,6 @@ categories: hackerrank sql
 > ```
 
 
-#### Weather Observation Station 2
-> Problem -> [URL](https://www.hackerrank.com/challenges/weather-observation-station-2/problem)
-> <br>
-> Difficulty Level: Easy
-> <br>
-> Pseudocode: 
-> 1. Select sum of `LAT_N` field and sum of `LONG_W` field round upto 2 decimal.
->  
-> Solution:
-> ```sql
-> SELECT ROUND(SUM(LAT_N),2), ROUND(SUM(LONG_W),2) FROM station;
-> ```
-
-
 #### Weather Observation Station 3
 > Problem -> [URL](https://www.hackerrank.com/challenges/weather-observation-station-3/problem)
 > <br>
