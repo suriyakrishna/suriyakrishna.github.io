@@ -159,7 +159,7 @@ categories: hackerrank sql
 >  
 > Solution:
 > ```sql
-> SELECT (SELECT COUNT(city) c FROM station) - (SELECT COUNT(DISTINCT city) dc FROM station) FROM dual;
+> SELECT COUNT(city) - COUNT(DISTINCT city) FROM station;
 > ```
 
 
