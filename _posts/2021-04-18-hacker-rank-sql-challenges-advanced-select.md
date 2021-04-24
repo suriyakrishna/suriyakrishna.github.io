@@ -14,7 +14,7 @@ categories: hackerrank sql
 > <br>
 > Pseudocode: 
 > 1. Using case statement we need to check if the given sides of triangle are Equilateral, Isosceles, Scalene or Not A Triangle.
-> - Condition to check if triangle can be formed with given dimensions - SUM(A, B) greater than or equal to C 
+> - Condition to check if triangle can be formed with given dimensions - SUM(A, B) greater than C 
 > - Condition for Equilateral - all three sides are equal.
 > - Condition for Isosceles - any two sides are equal.
 > - Condition for Scalene - none of the sides are equal.
@@ -149,7 +149,7 @@ categories: hackerrank sql
 > SELECT n,
 > CASE
 >     WHEN p IS NULL THEN 'Root'
->     WHEN n IN (SELECT DISTINCT P FROM bst) THEN 'Inner'
+>     WHEN n IN (SELECT DISTINCT p FROM bst) THEN 'Inner'
 >     ELSE 'Leaf'
 > END AS node_type
 > FROM bst
