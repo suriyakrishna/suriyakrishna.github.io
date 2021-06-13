@@ -17,6 +17,7 @@ categories: hackerrank sql
 1. [Challenges](#challenges)
 1. [Contest Leaderboard](#contest-leaderboard)
 
+
 #### Population Census
 > Problem -> [URL](https://www.hackerrank.com/challenges/asian-population/problem)
 > <br>

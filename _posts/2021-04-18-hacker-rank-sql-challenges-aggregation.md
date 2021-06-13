@@ -26,6 +26,7 @@ categories: hackerrank sql
 1. [Weather Observation Station 19](#weather-observation-station-19)
 1. [Weather Observation Station 20](#weather-observation-station-20)
 
+
 #### Revising Aggregations - The Count Function
 > Problem -> [URL](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem)
 > <br>

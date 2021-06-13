@@ -7,6 +7,14 @@ categories: hackerrank sql
 
 [Hacker Rank SQL Challenges](https://www.hackerrank.com/domains/sql)
 
+#### Problems
+1. [Type of Triangle](#type-of-triangle)
+1. [The PADS](#the-pads)
+1. [Occupations](#occupations)
+1. [Binary Tree Nodes](#binary-tree-nodes)
+1. [New Companies](#new-companies)
+
+
 #### Type of Triangle
 > Problem -> [URL](https://www.hackerrank.com/challenges/what-type-of-triangle/problem)
 > <br>
