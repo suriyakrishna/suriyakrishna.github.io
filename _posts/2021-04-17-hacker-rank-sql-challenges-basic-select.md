@@ -7,6 +7,29 @@ categories: hackerrank sql
 
 [Hacker Rank SQL Challenges](https://www.hackerrank.com/domains/sql)
 
+#### Problems
+1. [Revising the Select Query I](#revising-the-select-query-i)
+1. [Revising the Select Query II](#revising-the-select-query-ii)
+1. [Select All](#select-all)
+1. [Select By ID](#select-by-id)
+1. [Japanese Cities' Attributes](#japanese-cities-attributes)
+1. [Japanese Cities' Names](#japanese-cities-names)
+1. [Weather Observation Station 1](#weather-observation-station-1)
+1. [Weather Observation Station 3](#weather-observation-station-3)
+1. [Weather Observation Station 4](#weather-observation-station-4)
+1. [Weather Observation Station 5](#weather-observation-station-5)
+1. [Weather Observation Station 6](#weather-observation-station-6)
+1. [Weather Observation Station 7](#weather-observation-station-7)
+1. [Weather Observation Station 8](#weather-observation-station-8)
+1. [Weather Observation Station 9](#weather-observation-station-9)
+1. [Weather Observation Station 10](#weather-observation-station-10)
+1. [Weather Observation Station 11](#weather-observation-station-11)
+1. [Weather Observation Station 12](#weather-observation-station-12)
+1. [Higher Than 75 Marks](#higher-than-75-marks)
+1. [Employee Names](#employee-names)
+1. [Employee Salaries](#employee-salaries)
+
+
 #### Revising the Select Query I
 > Problem -> [URL](https://www.hackerrank.com/challenges/revising-the-select-query/problem)
 > <br>

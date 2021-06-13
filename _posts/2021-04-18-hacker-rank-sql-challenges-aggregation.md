@@ -7,6 +7,26 @@ categories: hackerrank sql
 
 [Hacker Rank SQL Challenges](https://www.hackerrank.com/domains/sql)
 
+#### Problems
+1. [Revising Aggregations - The Count Function](#revising-aggregations---the-count-function)
+1. [Revising Aggregations - The Sum Function](#revising-aggregations---the-sum-function)
+1. [Revising Aggregations - Averages](#revising-aggregations---averages)
+1. [Average Population](#average-population)
+1. [Japan Population](#japan-population)
+1. [Population Density Difference](#population-density-difference)
+1. [The Blunder](#the-blunder)
+1. [Top Earners](#top-earners)
+1. [Weather Observation Station 2](#weather-observation-station-2)
+1. [Weather Observation Station 13](#weather-observation-station-13)
+1. [Weather Observation Station 14](#weather-observation-station-14)
+1. [Weather Observation Station 15](#weather-observation-station-15)
+1. [Weather Observation Station 16](#weather-observation-station-16)
+1. [Weather Observation Station 17](#weather-observation-station-17)
+1. [Weather Observation Station 18](#weather-observation-station-18)
+1. [Weather Observation Station 19](#weather-observation-station-19)
+1. [Weather Observation Station 20](#weather-observation-station-20)
+
+
 #### Revising Aggregations - The Count Function
 > Problem -> [URL](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem)
 > <br>
