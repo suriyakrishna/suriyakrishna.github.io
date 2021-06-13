@@ -23,7 +23,7 @@ categories: hackerrank sql
 > Difficulty Level: Easy
 > <br>
 > Pseudocode: 
-> 1. Join `city` and `country` table on `city.countrycode` equal to `country.code` column.
+> 1. Join `city` and `country` table on `city.countrycode` equal to `country.code`.
 > 2. Filter `country.continent` equal to 'asia'.
 > 3. Aggregate sum of `city.population`.
 >  
@@ -47,8 +47,8 @@ categories: hackerrank sql
 > Difficulty Level: Easy
 > <br>
 > Pseudocode: 
-> 1. Join `city` and `country` table on `city.countrycode` equal to `country.code` column.
-> 2. Filter `country.continent` equal to africa.
+> 1. Join `city` and `country` table on `city.countrycode` equal to `country.code`.
+> 2. Filter `country.continent` equal to 'africa'.
 > 3. Select only `city.name`.
 >  
 > Solution:
@@ -71,7 +71,7 @@ categories: hackerrank sql
 > Difficulty Level: Easy
 > <br>
 > Pseudocode: 
-> 1. Join `city` and `country` table on `city.countrycode` equal to `country.code` column.
+> 1. Join `city` and `country` table on `city.countrycode` equal to `country.code`.
 > 2. Group By `country.continent`.
 > 3. Aggregate `AVG(city.population)` and `ROUND` down to nearest integer.
 >  
@@ -94,7 +94,7 @@ categories: hackerrank sql
 > Difficulty Level: Medium
 > <br>
 > Pseudocode: 
-> 1. Join `students` and `grades` table on `students.marks` between `grades.min_mark` and `grades.max_mark` column.
+> 1. Join `students` and `grades` table on `students.marks` between `grades.min_mark` and `grades.max_mark`.
 > 2. In select, apply case clause for `students.name`.
 > 3. Order By `grades.grade` descending, `students.name` ascending and apply case clause where `grades.grade` < 8 to order the results by `students.marks`.
 >  
@@ -124,9 +124,9 @@ categories: hackerrank sql
 > <br>
 > Pseudocode: 
 > 1. Joins
-> - `difficulty` table with `challenges` on `difficulty_level` column
-> - `challenges` table with `submissions` on `challenge_id` column
-> - `submissions` table with `hackers` on `hacker_id` column
+> - `difficulty` table with `challenges` on `difficulty_level`.
+> - `challenges` table with `submissions` on `challenge_id`.
+> - `submissions` table with `hackers` on `hacker_id`.
 > 2. Group by `hacker_id`, `name` having count of challenges greater than 1.
 > 3. Select `hacker_id`, `name` and aggregated value for `count_of_challenges`
 > 4. Select `hacker_id` and `name` from the subquery.
@@ -166,7 +166,7 @@ categories: hackerrank sql
 > Difficulty Level: Medium
 > <br>
 > Pseudocode: 
-> 1. Join `wands` and `wands_property` on `code` column.
+> 1. Join `wands` and `wands_property` on `code`.
 > 2. Filter no_evil wands, `wands_property.is_evil` equal to 0.
 > 3. Assign `ROW_NUMBER()` for resultant rows `PARTITION BY wands.power, wands_property.age ORDER BY wands.coins_needed ASC`. By this way we will get minimum number of gold galleons needed to buy each non-evil wand of high power and age.
 > 4. Select the id, age, coins_needed, power from sub-query and filter `row_num` equal to 1.
@@ -280,7 +280,7 @@ categories: hackerrank sql
 > 
 > Create temporary view `total_scores`,
 > <br>
-> 1. Join `hackers` and `max_hacker_score` on `hacker_id` column.
+> 1. Join `hackers` and `max_hacker_score` on `hacker_id`.
 > 2. Select `hackers.hacker_id`, `hacker.name` from `hackers`.
 > 3. Aggregate sum of scores for each hacker.
 > 4. Group by `hackers.hacker_id` and `hackers.name` and having sum greater than 0.
